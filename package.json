@@ -1,0 +1,14 @@
+{
+  "name": "ttd-practice",
+  "version": "1.0.0",
+  "description": "Practice TTD with jest and js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Nicholas Battista",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
